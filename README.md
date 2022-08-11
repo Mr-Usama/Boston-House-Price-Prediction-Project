@@ -1,6 +1,5 @@
 # Boston-House-Price-Prediction-Project
 - Using Linear Regression 
 
-- Dataset - Boston Housing 
+- Dataset - Boston Housing ( https://www.kaggle.com/c/boston-housing )
 
-- out.csv - data set file
